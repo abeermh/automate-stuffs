@@ -73,7 +73,7 @@ lists
 - list is mutable (change it , assign on it or remove from it ), string and tuple is immutable
 - practice projects
 
-** convert list to comma seperated string 
+* convert list to comma seperated string 
 ```
 def tostr(list):
     str=''
@@ -85,7 +85,7 @@ spam = ['apples', 'bananas', 'tofu', 'cats']
 tostr(spam)
 ```
 
-** [rotate list of lists](https://github.com/abeermh/automate-stuffs/blob/main/exercise3.py)
+* [rotate list of lists](https://github.com/abeermh/automate-stuffs/blob/main/exercise3.py)
 
 ### ********* chapter 5 *********
 
