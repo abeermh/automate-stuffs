@@ -38,7 +38,6 @@ functions
 - print without newline and change seperator in it
 - global and local scope
 - 'global' in function to change in global variables
--
 ```
 	def spam():
 	    print(eggs) # ERROR!
