@@ -39,13 +39,13 @@ functions
 - global and local scope
 - 'global' in function to change in global variables
 -
-'''
+```
 	def spam():
 	    print(eggs) # ERROR!
 	    eggs = 'spam local'
 	eggs = 'global'
 	spam()
-'''
+```
 error because print(eggs) is executed before eggs is assigned anything, the local variable eggs doesn’t exist. Python will not fall back to using
 the global eggs variable 
 
@@ -74,7 +74,7 @@ lists
 - practice projects
 
 ** convert list to comma seperated string 
-'''
+```
 def tostr(list):
     str=''
     str=", ".join(list[item] for item in range (len(list)-1))
@@ -83,7 +83,7 @@ def tostr(list):
     
 spam = ['apples', 'bananas', 'tofu', 'cats']
 tostr(spam)
-'''
+```
 
 ** [rotate list of lists] : (https://github.com/abeermh/automate-stuffs/blob/main/exercise3.py)
 
