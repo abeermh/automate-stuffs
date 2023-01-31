@@ -8,6 +8,6 @@ def stripLike(msg,character=None):
         #remove the character provided by the user
         msg=re.sub(character,"",msg)
     return msg    
-
-character=input("enter the char you need to remove or nothing ")  
-print(stripLike("   \n       hel \nlo\n","l"),"ghc")
+msg=input("enter your massage : ")
+character=input("enter the char you need to remove or nothing  ")  
+print(stripLike(msg,character))
