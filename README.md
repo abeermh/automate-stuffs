@@ -41,10 +41,9 @@ functions
 -
 '''
 	def spam():
-	 print(eggs) # ERROR!
-	u eggs = 'spam local'
-
-	v eggs = 'global'
+	    print(eggs) # ERROR!
+	    eggs = 'spam local'
+	eggs = 'global'
 	spam()
 '''
 error because print(eggs) is executed before eggs is assigned anything, the local variable eggs doesn’t exist. Python will not fall back to using
@@ -75,17 +74,16 @@ lists
 - practice projects
 
 ** convert list to comma seperated string 
-
+'''
 def tostr(list):
     str=''
     str=", ".join(list[item] for item in range (len(list)-1))
-    str+=(' and '+list[-1])
-        
-            
+    str+=(' and '+list[-1])      
     print(str)
+    
 spam = ['apples', 'bananas', 'tofu', 'cats']
 tostr(spam)
-
+'''
 
 ** [rotate list of lists] : (https://github.com/abeermh/automate-stuffs/blob/main/exercise3.py)
 
