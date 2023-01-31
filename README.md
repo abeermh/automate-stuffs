@@ -85,7 +85,7 @@ spam = ['apples', 'bananas', 'tofu', 'cats']
 tostr(spam)
 ```
 
-** [rotate list of lists] : (https://github.com/abeermh/automate-stuffs/blob/main/exercise3.py)
+** [rotate list of lists](https://github.com/abeermh/automate-stuffs/blob/main/exercise3.py)
 
 ### ********* chapter 5 *********
 
@@ -94,12 +94,12 @@ dictionaries : unordered , key value pairs
 
 - set default exercise:
 
-- [pprint format] : (https://github.com/abeermh/automate-stuffs/blob/main/exercise4.py)
+- [pprint format](https://github.com/abeermh/automate-stuffs/blob/main/exercise4.py)
 '''
    
 '''
 
-- [A Tic-Tac-Toe Board ]:(https://github.com/abeermh/automate-stuffs/blob/main/exercise5.py) 
+- [A Tic-Tac-Toe Board ](https://github.com/abeermh/automate-stuffs/blob/main/exercise5.py) 
 
 ### ********* chapter 6 *********
  
@@ -120,9 +120,9 @@ part 2 :
 
 - [project to check number in text](https://github.com/abeermh/automate-stuffs/blob/main/exercise7.py)
 
-- [project to check strong password]:(https://github.com/abeermh/automate-stuffs/blob/main/exercise8.py)
+- [project to check strong password](https://github.com/abeermh/automate-stuffs/blob/main/exercise8.py)
 
-- [project like strip function using regexes] : (https://github.com/abeermh/automate-stuffs/blob/main/exercise9.py)
+- [project like strip function using regexes](https://github.com/abeermh/automate-stuffs/blob/main/exercise9.py)
 
 
 ### ********* chapter 8 *********
