@@ -9,18 +9,18 @@ His books are freely available on his website :
 https://inventwithpython.com/
 
 
-#********* chapter 1 *********
+# ********* chapter 1 *********
 
 - operators
 - data types
 - string concatination  (+)
 - string repeating (*)
 - valid variable naming
-# program for say hello and print name and age ,use casting 
+- program for say hello and print name and age ,use casting 
 - can use the conditon of comparing int and floating point values , integer can be equal to a
 floating point (42==42.00 will return true )
 
-#********* chapter 2 *********
+# ********* chapter 2 *********
 
 flow control 
 - comparison operators
@@ -30,7 +30,7 @@ flow control
 - end program using sys.exit()
 - round and abs
 
-#********* chapter 3 *********
+# ********* chapter 3 *********
 
 functions
 - return value from function
@@ -54,7 +54,7 @@ the global eggs variable
 
 - [project about collatz sequence](https://github.com/abeermh/automate-stuffs/blob/main/exercise1.py)
 
-********* chapter 4 *********
+# ********* chapter 4 *********
 
 lists
 - negative index to get the values from the end
@@ -89,7 +89,7 @@ tostr(spam)
 
 ** [rotate list of lists] : (https://github.com/abeermh/automate-stuffs/blob/main/exercise3.py)
 
-********* chapter 5 *********
+# ********* chapter 5 *********
 
 dictionaries : unordered , key value pairs
 - dict methods : keys , values , items , get ,setdefault
@@ -103,7 +103,7 @@ dictionaries : unordered , key value pairs
 
 - [A Tic-Tac-Toe Board ]:(https://github.com/abeermh/automate-stuffs/blob/main/exercise5.py) 
 
-#********* chapter 6 *********
+# ********* chapter 6 *********
  
 - string methods
 	isalnum , isspace , isdecimal ,istitle , startswith , endswith , join , split , rjust
@@ -113,7 +113,7 @@ dictionaries : unordered , key value pairs
 
 
 part 2 :
-#********* chapter 7 *********
+# ********* chapter 7 *********
 
 
 - regular expression : regexes
@@ -127,7 +127,7 @@ part 2 :
 - [project like strip function using regexes] : (https://github.com/abeermh/automate-stuffs/blob/main/exercise9.py)
 
 
-#********* chapter 8 *********
+# ********* chapter 8 *********
 
 -files and directories
 -makedirs , abspath , isabs ,getcwd, chdir , 
