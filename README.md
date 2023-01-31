@@ -91,14 +91,9 @@ tostr(spam)
 
 dictionaries : unordered , key value pairs
 - dict methods : keys , values , items , get ,setdefault
-
 - set default exercise:
 
 - [pprint format](https://github.com/abeermh/automate-stuffs/blob/main/exercise4.py)
-'''
-   
-'''
-
 - [A Tic-Tac-Toe Board ](https://github.com/abeermh/automate-stuffs/blob/main/exercise5.py) 
 
 ### ********* chapter 6 *********
