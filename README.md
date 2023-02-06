@@ -129,3 +129,21 @@ path = dirname + basename (use split with any path to get them)
 	* read , readlines , write
 	
 - save data with shelve files like dictionaries (key value pairs)	
+
+### ********* chapter 9 *********
+
+- file reading and writing process
+```
+ from pathlib import Path
+ p = Path('spam.txt')
+ p.write_text('Hello, world!')	#for writing
+ print(p.read_text())		# for reading 
+```
+- shelve module 
+- pprint.pformat()
+- [random quiz files creation]()
+- [Updatable Multi-Clipboar]()
+-  [keywords replacement in txt file]()
+-  [regex search]()
+
+### ********* chapter 10 *********
