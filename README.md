@@ -127,6 +127,10 @@ path = dirname + basename (use split with any path to get them)
 	
 - save data with shelve files like dictionaries (key value pairs)	
 
+- [random quiz files creation](https://github.com/abeermh/automate-stuffs/blob/main/capitals_quiz.py)
+- [Updatable Multi-Clipboard]()
+- [keywords replacement in txt file](https://github.com/abeermh/automate-stuffs/blob/main/madlibs.py)
+- [ regex search ](https://github.com/abeermh/automate-stuffs/blob/main/regexsearch.py) 
 
 ### ********* chapter 9 ( Organizing Files ) *********
 
@@ -139,14 +143,7 @@ path = dirname + basename (use split with any path to get them)
 ```
 - shelve module 
 - pprint.pformat()
-- [random quiz files creation]()
-- [Updatable Multi-Clipboar]()
--  [keywords replacement in txt file]()
--  [regex search]()
-- [ generating random quiz files ](https://github.com/abeermh/automate-stuffs/blob/main/capitals_quiz.py)
-- [ multiclipboard ]()
-- [ mad libs ](https://github.com/abeermh/automate-stuffs/blob/main/madlibs.py)
-- [ regex search ](https://github.com/abeermh/automate-stuffs/blob/main/regexsearch.py) 
+
 ### ********* chapter 10 ( Debugging ) *********
 
 ### ********* chapter 11 ( Web Scraping ) *********
