@@ -1,0 +1,27 @@
+Alexandria,Alexandria
+Governadorat dAswan,Aswan
+Flag of Assiut Governorate,Asyut
+Flag of Behira Govenorate ,Damanhur
+Beni Suef Governorate Flag,Beni Suef
+Flag of Cairo,Cairo
+DakahliaFlag,Mansoura
+Flag of Damietta Governorate,Damietta
+Governadorat de Faium,Faiyum
+Governadorat de Gharbiya,Tanta
+Flag of Giza Governorate,Giza
+Governadorat dIsmailiya,Ismailia
+Flag of Kafr El-Sheikh Governorate,Kafr El Sheikh
+Eg luxor,Luxor
+Matrouh Governorate-logo,Marsa Matruh
+Flag of Minya Governorate,Minya
+Flag of Menoufia Governorate,Shibin El Kom
+Old Flag of New Valley Governorate Egypt,Kharga
+North Sinai (New Flag),Arish
+Port Said Flag Version ,Port Said
+Governadorat de Qalyubiya,Banha
+Governadorat de Qena flag,Qena
+Governadorat de la mar Roja,Hurghada
+Flag of Ash Sharqiyah,Zagazig
+Governadorat de Suhaj,Sohag
+South Sinai Governorate Flag,El Tor
+Flag of Suez Governorate,Suez
