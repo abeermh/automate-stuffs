@@ -8,8 +8,8 @@ Al Sweigart is a software developer and tech book author
 His books are freely available on his website :
 https://inventwithpython.com/
 
-
-### ********* chapter 1 *********
+## Part 1
+### ********* chapter 1 ( Python Basics ) *********
 
 - operators
 - data types
@@ -20,9 +20,8 @@ https://inventwithpython.com/
 - can use the conditon of comparing int and floating point values , integer can be equal to a
 floating point (42==42.00 will return true )
 
-### ********* chapter 2 *********
+### ********* chapter 2 ( Flow Control ) *********
 
-flow control 
 - comparison operators
 - boolean operators
 - flow control statement (if , while , break , continue , for )
@@ -30,9 +29,8 @@ flow control
 - end program using sys.exit()
 - round and abs
 
-### ********* chapter 3 *********
+### ********* chapter 3 ( Functions ) *********
 
-functions
 - return value from function
 - None value 
 - print without newline and change seperator in it
@@ -52,9 +50,8 @@ the global eggs variable
 
 - [project about collatz sequence](https://github.com/abeermh/automate-stuffs/blob/main/exercise1.py)
 
-### ********* chapter 4 *********
+### ********* chapter 4 ( Lists ) *********
 
-lists
 - negative index to get the values from the end
 - sublist by slice the list
 - list concatination (+) list replication (*)
@@ -86,7 +83,7 @@ tostr(spam)
 
 * [rotate list of lists](https://github.com/abeermh/automate-stuffs/blob/main/exercise3.py)
 
-### ********* chapter 5 *********
+### ********* chapter 5  ( Dictionaries and Structuring Data ) *********
 
 dictionaries : unordered , key value pairs
 - dict methods : keys , values , items , get ,setdefault
@@ -95,7 +92,7 @@ dictionaries : unordered , key value pairs
 - [pprint format](https://github.com/abeermh/automate-stuffs/blob/main/exercise4.py)
 - [A Tic-Tac-Toe Board ](https://github.com/abeermh/automate-stuffs/blob/main/exercise5.py) 
 
-### ********* chapter 6 *********
+### ********* chapter 6 ( Manipulating Strings  ) *********
  
 - string methods
 	isalnum , isspace , isdecimal ,istitle , startswith , endswith , join , split , rjust
@@ -104,8 +101,8 @@ dictionaries : unordered , key value pairs
 - [rotate list of lists]:(https://github.com/abeermh/automate-stuffs/blob/main/exercise6.py)
 
 
-part 2 :
-### ********* chapter 7 *********
+##Part 2 :
+### ********* chapter 7( Pattern Matching With Regular Expressions  ) *********
 
 
 - regular expression : regexes
@@ -119,7 +116,7 @@ part 2 :
 - [project like strip function using regexes](https://github.com/abeermh/automate-stuffs/blob/main/exercise9.py)
 
 
-### ********* chapter 8 *********
+### ********* chapter 8 ( Reading and Writing Files ) *********
 
 -files and directories
 -makedirs , abspath , isabs ,getcwd, chdir , 
@@ -130,7 +127,7 @@ path = dirname + basename (use split with any path to get them)
 	
 - save data with shelve files like dictionaries (key value pairs)	
 
-### ********* chapter 9 *********
+### ********* chapter 9 ( Organizing Files ) *********
 
 - file reading and writing process
 ```
@@ -146,4 +143,21 @@ path = dirname + basename (use split with any path to get them)
 -  [keywords replacement in txt file]()
 -  [regex search]()
 
-### ********* chapter 10 *********
+### ********* chapter 10 ( Debugging ) *********
+
+### ********* chapter 11 ( Web Scraping ) *********
+
+### ********* chapter 12 ( Working With Excel Spreadsheets ) *********
+
+### ********* chapter 13 ( Working With PDF & Work Documents ) *********
+
+### ********* chapter 14 ( Working With CSV Files & JSON Data ) *********
+
+### ********* chapter 15 ( Keeping Time Scheduling Tasks & Launching Programs ) *********
+
+### ********* chapter 16 ( Sending Email & Text Messages ) *********
+
+### ********* chapter 17 ( Manipulating Images ) *********
+
+### ********* chapter 18 ( Controling the keyboard & Mouse With GUI Automation  ) *********
+
