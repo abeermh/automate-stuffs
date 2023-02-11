@@ -170,8 +170,7 @@ except:
 this program will write exception info into log file to be looked at later without crashing program
 - assertions 
 - logging
-[  is a great way to understand what’s happening in your
-program and in what order its happening ]
+[  is a great way to understand what’s happening in your program and in what order its happening ]
 EX:
 ```
 import logging
