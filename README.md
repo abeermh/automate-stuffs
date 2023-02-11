@@ -145,6 +145,60 @@ path = dirname + basename (use split with any path to get them)
 - pprint.pformat()
 
 ### ********* chapter 10 ( Debugging ) *********
+#### some tools & techniques for finding the root cause of bugs 
+- raising exceptions :
+```
+try:
+	your code 
+except:
+	exception you want to raise
+
+```
+- getting traceback as a string 
+[ includes the error message,
+the line number of the line that caused the error, and the sequence of the
+function calls that led to the error. This sequence of calls is called the call stack.  ]
+```
+try:
+  	 raise Exception('This is the error message.')
+except:
+	 errorFile = open('errorInfo.txt', 'w')
+	 errorFile.write(traceback.format_exc())
+	 errorFile.close()
+	 print('The traceback info was written to errorInfo.txt.')
+```
+this program will write exception info into log file to be looked at later without crashing program
+- assertions 
+- logging
+[  is a great way to understand what’s happening in your
+program and in what order its happening ]
+EX:
+```
+import logging
+logging.basicConfig(filename='myProgramLog.txt',level=logging.DEBUG, format=' %(asctime)s - %(levelname)s
+- %(message)s')
+# this gonna print the debug info into the  terminal during running and save it to file 'myProgramLog.txt'
+
+logging.debug('Start of program')
+#msg of the debug 
+
+def factorial(n):
+ logging.debug('Start of factorial(%s%%)' % (n))
+ total = 1
+ for i in range(n + 1):
+ total *= i
+ logging.debug('i is ' + str(i) + ', total is ' + str(total))
+ logging.debug('End of factorial(%s%%)' % (n))
+ return total
+print(factorial(5))
+logging.debug('End of program')
+```
+and when ever you want to disable it easily type :
+```
+logging.disable(logging.DEBUG) #debug is type of logging you want to disable
+```
+- IDLE’s Debugger
+
 
 ### ********* chapter 11 ( Web Scraping ) *********
 
